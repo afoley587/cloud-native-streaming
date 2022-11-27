@@ -510,4 +510,4 @@ See the video below!
 ![](imgs/chat.gif)
 
 ## References
-All code can be found in my public repo [here]().
+All code can be found in my public repo [here](https://github.com/afoley587/cloud-native-streaming).
